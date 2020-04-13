@@ -1,0 +1,14 @@
+time-format %T
+date-format %d/%b/%Y
+log-format %h - %^ [%d:%t %^] "%r" %s %b "%R" "%u" %T "%^"
+anonymize-ip true
+http-method no
+http-protocol no
+ignore-panel STATUS_CODES
+ignore-panel REMOTE_USER
+ignore-panel REQUESTS_STATIC
+ignore-panel NOT_FOUND
+ignore-panel KEYPHRASES
+no-query-string true
+html-report-title stats.ninefiveslabs.io
+
