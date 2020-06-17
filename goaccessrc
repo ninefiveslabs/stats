@@ -9,6 +9,7 @@ ignore-panel REMOTE_USER
 ignore-panel REQUESTS_STATIC
 ignore-panel NOT_FOUND
 ignore-panel KEYPHRASES
+ignore-panel HOSTS
 no-query-string true
 html-report-title stats.ninefiveslabs.io
 
